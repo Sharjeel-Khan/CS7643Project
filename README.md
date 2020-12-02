@@ -26,6 +26,7 @@ These are the software needed:
 * SemiSupervised.ipynb: Code for reproducability of U-SemiSupervised
 * Siamese_Enlarged_Cardio.ipynb: Code for siamese network on Enlarged Cardio
 * Siamese_Lung_Lesion.ipynb: Code for siamese network on Lung Lesion
+* Chexpert_Siamese_Multiclass.ipynb: Code for Siamese network on Pneumonia
 
 
 ## Running Code <a name="code"></a>
