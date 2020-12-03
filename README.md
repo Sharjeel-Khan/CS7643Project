@@ -47,13 +47,13 @@ Each jupyter notebook has both the training code and evaluation code. If you tra
 
 ### Siamese AUROC Scores <a name="siamese"></a>
 
-![U-Ignore](/graphs/auc_Enlarged_siamese.png)
+![Enlarged Cardio.](/graphs/auc_Enlarged_siamese.png)
 
-![U-Binary](/graphs/auc_atelectasis_siamese.png)
+![Atelectasis](/graphs/auc_atelectasis_siamese.png)
 
-![U-Learning](/graphs/auc_pneumonia_siamese.png)
+![Pneumonia](/graphs/auc_pneumonia_siamese.png)
 
-![U-MultiClass](/graphs/auc_u_multiclass.png)
+![Lung Lesion](/graphs/auc_Lung_lesion_siamese.png)
 
 ## Authors
 
